@@ -1,0 +1,78 @@
+Summary
+
+Similarities
+
+Both documents contain terms about payment, taxes, and refunds.
+Both documents contain terms about account setup and management.
+Both documents contain terms about termination of services.
+Both documents contain terms about intellectual property and copyright.
+
+Additions
+
+Document 2 has added terms about subscriptions and passes.
+Document 2 has added terms about family sharing.
+Document 2 has added terms about carrier memberships.
+
+Removals
+
+Document 2 has removed terms about iTunes gift cards and allowances.
+Document 2 has removed terms about the Genius feature.
+Document 2 has removed terms specific to the iTunes Store.
+
+--------------------------------------------
+
+Common terms
+
+Document 1 text
+
+You agree that you will pay for all products you purchase through the Stores, and that iTunes may charge your payment method for any products purchased and for any additional amounts (including any taxes and late fees, as applicable) that may be accrued by or in connection with your Account.
+
+Document 2 text
+
+Apple will charge your selected payment method for any paid Transactions, including any applicable taxes. If you have also added it to your Apple Wallet, Apple may charge your selected payment method in Apple Wallet using Apple Pay. You can associate multiple payment methods with your Apple ID, and you agree that Apple may store and charge those payment methods for Transactions.
+
+Difference
+
+Document 1 specifies iTunes as the payment processor, while Document 2 specifies Apple more generally. Document 1 mentions late fees, while Document 2 does not.
+
+--------------------------------------------
+
+Document 1 text
+
+You are solely responsible for maintaining the confidentiality and security of your Account, and for all activities that occur on or through your Account, and you agree to immediately notify iTunes of any security breach of your Account. iTunes shall not be responsible for any losses arising out of the unauthorised use of your Account.
+
+Document 2 text
+
+You are solely responsible for maintaining the confidentiality and security of your Apple ID, and for all activities that occur on or through your Apple ID, and you agree to immediately notify Apple of any security breach of your Apple ID. Apple is not responsible for any losses arising from the unauthorized use of your Apple ID.
+
+Difference
+
+Document 1 refers specifically to an iTunes Account, while Document 2 refers to an Apple ID. Otherwise, there is no substantive meaningful change.
+
+--------------------------------------------
+
+Document 1 text
+
+If you fail, or iTunes has strong grounds to believe that you have failed, to comply with any of the provisions of this Agreement, iTunes, at its sole discretion, without notice to you may: (i) terminate this Agreement and/or your Account, and you will remain liable for all amounts due under your Account up to and including the date of termination; and/or (ii) cause the license to the software to be terminated; and/or (iii) preclude access to the Service (or any part thereof).
+
+Document 2 text
+
+If you fail, or Apple suspects that you have failed, to comply with any of the provisions of this Agreement, Apple may, without notice to you: (i) terminate this Agreement and/or your Apple ID, and you will remain liable for all amounts due under your Apple ID up to and including the date of termination; and/or (ii) terminate your license to the software; and/or (iii) preclude your access to the Services.
+
+Difference
+
+Document 1 refers specifically to an iTunes Agreement and Account, while Document 2 refers to an Apple Agreement and Apple ID. Otherwise, there is no substantive meaningful change.
+
+--------------------------------------------
+
+Document 1 text
+
+iTunes and/or its licensors own the copyright in the Service, including the compilation of content, postings, links to other Internet resources, and descriptions of those resources. The use of any part of the Service, except for use of the Service as permitted herein, is strictly prohibited and infringes on the intellectual property rights of others and may subject you to civil and criminal penalties, including possible monetary damages, for copyright infringement.
+
+Document 2 text
+
+You agree that the Services, including but not limited to Content, graphics, user interface, audio clips, video clips, editorial content and the scripts and software used to implement the Services, contain proprietary information and material that is owned by Apple, its licensors and/or Content providers, and is protected by applicable intellectual property and other laws, including but not limited to copyright. You agree that you will not use such proprietary information or materials in any way whatsoever, except for use of the Services for personal, noncommercial uses in compliance with this Agreement. No portion of the Content or Services may be transferred or reproduced in any form or by any means, except as expressly permitted by this Agreement. You agree not to modify, rent, loan, sell, share, or distribute the Services or Content in any manner, and you shall not exploit the Services in any manner not expressly authorized.
+
+Difference
+
+No substantive meaningful change.
