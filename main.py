@@ -122,7 +122,6 @@ doc_1 = st.text_area('Document 1').strip()
 doc_2 = st.text_area('Document 2').strip()
 
 
-# async def main():
 if st.button('Analyze'):
 
     t0 = default_timer()
