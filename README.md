@@ -1,6 +1,6 @@
-# Simmons Wavelength interview task
+# Document comparison using LLMs.
 
-I have used Anthropic's Claude 2 model for this task. All the code and prompts can be found in `main.py`
+I have used Anthropic's Claude 2 model for this task to take advantage of its large context window. All the code and prompts can be found in `main.py`
 
 I have chosen to chain three prompts for this task:
 
